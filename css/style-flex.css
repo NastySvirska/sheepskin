@@ -1,0 +1,72 @@
+a{
+    text-decoration: none;
+    color: #000;
+}
+h1{
+    font-size:45px;
+}
+.header{
+    text-align: center;
+}
+.quotes{
+    font-style: italic;
+}
+.conteiter{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: flex-start; */
+}
+.blok{
+    border: solid 2px black;
+    width: 30%;
+    margin-bottom: 10px;
+    padding: 10px 10px 10px 10px;
+    
+}
+.menu{
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
+.menu_a{
+    text-transform: uppercase;
+    font-size: 24px;
+    padding: 0 10px 0 10px;
+
+}
+.menu_a:hover{
+    color: #ff6464;
+    
+}
+.cont-blok{
+    display: flex;
+  
+   justify-content: center;
+}
+.second-blok-img{
+    width: 200px;
+    margin: 0 10px 0 10px;
+}
+.blk{
+    width: 40%;
+}
+
+
+.conteiner-3{
+    display: flex;
+    justify-content: center;
+}
+.conteiner-blok-1{
+    display: flex;
+    justify-content: flex-start;
+    width: 50%;
+}
+.conteiner-blok-2{
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+}
+.buttom-3{
+    text-align: end;
+    color: #ff6464;
+    margin-right: 10px;
+}
